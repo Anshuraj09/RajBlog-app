@@ -83,7 +83,7 @@ function ProfilePage() {
         </a>
 
         <a
-          href="tel:+917079898902"
+          href="tel:+919289916169"
           className="block bg-white shadow-lg rounded-lg p-4 mb-4 flex items-center justify-between transition-transform transform hover:scale-105"
         >
           <FaPhone className="text-green-600 text-xl" />
